@@ -1,4 +1,4 @@
-For Compilation and running the lasso game:-
+For Compilation and running the lasso loop game:-
 Open terminal from codeblocks:
 Type: <mingw32-g++ -std=c++11 -o lasso lasso.cpp MovingObject.cpp main.cpp coin.cpp -lsprite -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32> 
 > lasso.exe
