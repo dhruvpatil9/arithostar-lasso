@@ -6,7 +6,7 @@
 // initial interface for instructions
 int interface1()
 {
-    int play_number;
+    int play_number;.k.kh.h
     for (;;)
     {
         Rectangle play11r(500, 250, 300, 40);
